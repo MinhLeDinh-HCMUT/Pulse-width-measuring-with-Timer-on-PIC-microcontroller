@@ -1,4 +1,4 @@
-# Pulse width measuring with Timers on PIC-microcontroller using Special Function Register (SFR)
+# Pulse width measuring with Timers on PIC microcontroller using Special Function Register (SFR)
 
 ## Microcontrollers used
 - PIC16F877
